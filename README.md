@@ -36,7 +36,7 @@ alt=""/>
 ---
 🔥 My stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=doctormike1992&theme=dark-minimalist&hide_border=true&mode=weekly&background=0B0537A8)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctormike1992&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
