@@ -20,7 +20,8 @@ alt=""/>
 
 - Former cook
 - I am taking cources from Datalabs.edu
-- Currently learning Wordpress,HTML,CSS,JS
+- Self taught front-end Developer 
+- Currently learning React
 
 ⚙️Languages and tools:
 <div>
