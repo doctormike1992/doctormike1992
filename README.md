@@ -16,7 +16,7 @@ alt=""/>
 
 ### 👨‍💻: About me
 
-***I am learning Web Develpment***
+***Self taught Front-end Developer***
 
 - Former cook
 - I am taking cources from Datalabs.edu
