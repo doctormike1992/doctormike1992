@@ -35,12 +35,7 @@ alt=""/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" />
 </div>
 
----
-🔥 My stats
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doctormike1992&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
