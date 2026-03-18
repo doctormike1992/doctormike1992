@@ -16,10 +16,10 @@ alt=""/>
 
 ### 👨‍💻: About me
 
-***Self taught Front-end Developer***
+***Computer science Student***
 
 - Former cook
-- I am taking cources from Datalabs.edu
+- Computer science Student at SAEK DELTA
 - Self taught front-end Developer 
 - Currently learning React
 
